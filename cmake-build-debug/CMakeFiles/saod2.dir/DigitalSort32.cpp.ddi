@@ -1,0 +1,11 @@
+{
+"rules": [
+{
+"primary-output": "CMakeFiles/saod2.dir/DigitalSort32.cpp.o",
+"requires": [
+]
+}
+],
+"version": 0,
+"revision": 0
+}

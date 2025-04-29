@@ -1,0 +1,6 @@
+C:/Users/Konstantin/CLionProjects/saod2/cmake-build-debug/CMakeFiles/saod2.dir
+C:/Users/Konstantin/CLionProjects/saod2/cmake-build-debug/CMakeFiles/saod2Hash.dir
+C:/Users/Konstantin/CLionProjects/saod2/cmake-build-debug/CMakeFiles/saod2hash2.dir
+C:/Users/Konstantin/CLionProjects/saod2/cmake-build-debug/CMakeFiles/digitalsort.dir
+C:/Users/Konstantin/CLionProjects/saod2/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/Users/Konstantin/CLionProjects/saod2/cmake-build-debug/CMakeFiles/rebuild_cache.dir

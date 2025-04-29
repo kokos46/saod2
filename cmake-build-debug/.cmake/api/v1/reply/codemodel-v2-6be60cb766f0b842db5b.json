@@ -1,0 +1,87 @@
+{
+	"configurations" : 
+	[
+		{
+			"directories" : 
+			[
+				{
+					"build" : ".",
+					"jsonFile" : "directory-.-Debug-d0094a50bb2071803777.json",
+					"minimumCMakeVersion" : 
+					{
+						"string" : "3.30"
+					},
+					"projectIndex" : 0,
+					"source" : ".",
+					"targetIndexes" : 
+					[
+						0,
+						1,
+						2,
+						3
+					]
+				}
+			],
+			"name" : "Debug",
+			"projects" : 
+			[
+				{
+					"directoryIndexes" : 
+					[
+						0
+					],
+					"name" : "saod2",
+					"targetIndexes" : 
+					[
+						0,
+						1,
+						2,
+						3
+					]
+				}
+			],
+			"targets" : 
+			[
+				{
+					"directoryIndex" : 0,
+					"id" : "digitalsort::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-digitalsort-Debug-80d07115c31ea0dbe13c.json",
+					"name" : "digitalsort",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "saod2::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-saod2-Debug-68a8e9518ae25277dbbe.json",
+					"name" : "saod2",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "saod2Hash::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-saod2Hash-Debug-0b0a2d22313bd1c46b93.json",
+					"name" : "saod2Hash",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "saod2hash2::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-saod2hash2-Debug-71437587b67d514687b5.json",
+					"name" : "saod2hash2",
+					"projectIndex" : 0
+				}
+			]
+		}
+	],
+	"kind" : "codemodel",
+	"paths" : 
+	{
+		"build" : "C:/Users/Konstantin/CLionProjects/saod2/cmake-build-debug",
+		"source" : "C:/Users/Konstantin/CLionProjects/saod2"
+	},
+	"version" : 
+	{
+		"major" : 2,
+		"minor" : 7
+	}
+}

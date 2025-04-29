@@ -1,0 +1,7 @@
+ninja_dyndep_version = 1.0
+build CMakeFiles/saod2.dir/main.cpp.obj: dyndep
+
+build CMakeFiles/saod2.dir/iofunctions.cpp.obj: dyndep
+
+build CMakeFiles/saod2.dir/MergeSort.cpp.obj: dyndep
+

@@ -1,0 +1,11 @@
+{
+"rules": [
+{
+"primary-output": "CMakeFiles\\digitalsort.dir\\DigitalSort.cpp.obj",
+"requires": [
+]
+}
+],
+"version": 0,
+"revision": 0
+}

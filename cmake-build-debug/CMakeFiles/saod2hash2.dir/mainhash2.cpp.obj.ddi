@@ -1,0 +1,11 @@
+{
+"rules": [
+{
+"primary-output": "CMakeFiles\\saod2hash2.dir\\mainhash2.cpp.obj",
+"requires": [
+]
+}
+],
+"version": 0,
+"revision": 0
+}
